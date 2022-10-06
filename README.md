@@ -1,1 +1,1 @@
-# big-walk-blog
+# Model-View-Controller Blog
